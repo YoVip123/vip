@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: Tuesday 25 November, 2025 09:15:43
+#DATE: Tuesday 25 November, 2025 11:37:21
 
 #EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
@@ -4178,7 +4178,7 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-id="" group-title="Infotainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD (XC)
 http://116.90.120.149:8000/play/a0j1/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Infotainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Animal_Planet_HD_2018.svg/revision/latest?cb=20190715053535",Animal Planet HD
+#EXTINF:-1 tvg-id="" group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx691H-c6WDEFPd4UotizMVtpNT8AL8ixDgK-JqvV8h8RVW7I5FMhYqM&s=10",Animal Planet HD
 http://116.90.120.149:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",Zee Comedy Nation
@@ -4201,4 +4201,7 @@ https://origin1.freetvindia.com/live/GOLDMINESBOLLYWOOD.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TESTING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6oIkh51mGBnGh_KrG10F-n8ixYXM_UMwTSmhc6s_KpuFUCRMBaJyloM&s",Sony sab SD (TEST)
 http://103.182.170.32:8888/play/a03r
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzGLvSpxsYCv62nB9BpGOGiI_MUdE0rSooQ&usqp=CAU",TMKOC 24/7
+https://fusion4k.wasmer.app/getlink/2043
 
