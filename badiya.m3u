@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 27-11-2025 09:44:50 AM | Expire: 27-11-2025 01:44:50 PM"
+#EXTM3U billed-msg="Updated: 27-11-2025 09:53:58 AM | Expire: 27-11-2025 01:53:58 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 27-11-2025 09:44:50 AM
+#DATE: 27-11-2025 09:53:58 AM
 
 #EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
@@ -4204,9 +4204,6 @@ http://103.182.170.32:8888/play/a03r
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzGLvSpxsYCv62nB9BpGOGiI_MUdE0rSooQ&usqp=CAU",TMKOC 24/7
 https://fusion4k.wasmer.app/getlink/2064
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwMYpJMEvIKMC-UMhfTFMaC0wAhFcdeyl5Ne1QylPgQ&s",Doraemon (Rana)
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=388459
-
 #EXTINF:-1 tvg-id="" group-title="Songs" tvg-logo="",English Songs 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
 
@@ -4227,4 +4224,7 @@ https://fusion4k.wasmer.app/getlink/2483
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZT-qiF2XnnlCHV4YP4fOwFciK0WbkUXMLBN8TWuVQLEj3xT6_LzNWGJUCk0H6GijABDv08b2PGhC_CPfndgsRGxWqw4DcxQ8c1qHSDKIokg&s=10",bandbudh aur budbak
 https://fusion4k.wasmer.app/getlink/2478
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (Wasmer)
+https://fusion4k.wasmer.app/getlink/2476
 
