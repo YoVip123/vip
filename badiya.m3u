@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 09-12-2025 10:00:20 AM | Expire: 09-12-2025 02:00:20 PM"
+#EXTM3U billed-msg="Updated: 09-12-2025 02:02:42 PM | Expire: 09-12-2025 06:02:42 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 09-12-2025 10:00:20 AM
+#DATE: 09-12-2025 02:02:42 PM
 
 #EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
@@ -4167,13 +4167,13 @@ https://www.redbooks.site/x11.php?id=221256.m3u8
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png/revision/latest/scale-to-width-down/920?cb=20180305065258",ShinChan (TATA)
-https://mini.allinonereborn.fun/tata.php?id=58625
+https://tatatv.wasmer.app/getlink/1207
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (Dhoom)
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (TATA)
-https://mini.allinonereborn.fun/tata.php?id=58634
+https://tatatv.wasmer.app/getlink/1213
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (Tplay)
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
@@ -4236,5 +4236,5 @@ http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98866.ts
 https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwYyVEubKHA26DtfNkYGbyHA7lRvDkGaHuPXNwvJ7gg&s=10",Tom and Jerry
-https://mini.allinonereborn.fun/tata.php?id=58593
+https://tatatv.wasmer.app/getlink/1118
 
