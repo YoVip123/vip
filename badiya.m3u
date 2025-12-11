@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 11-12-2025 10:06:11 AM | Expire: 11-12-2025 02:06:11 PM"
+#EXTM3U billed-msg="Updated: 11-12-2025 02:02:26 PM | Expire: 11-12-2025 06:02:26 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 11-12-2025 10:06:11 AM
+#DATE: 11-12-2025 02:02:26 PM
 
 #EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
@@ -4224,7 +4224,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98872.ts
 
 #EXTINF:-1 tvg-id="" group-title="Infotainment" tvg-logo="https://icon2.cleanpng.com/20181117/vrk/kisspng-science-channel-high-definition-television-discove-5bf0de3a48c959.3230694415425121862981.jpg",Discovery Science
-http://66.102.120.18:8000/play/a01l/index.m3u8
+http://116.90.120.149:8000/play/a0iv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/972.ts
