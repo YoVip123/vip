@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 22-12-2025 07:24:33 AM | Expire: 22-12-2025 11:24:33 AM"
+#EXTM3U billed-msg="Updated: 22-12-2025 08:52:05 AM | Expire: 22-12-2025 12:52:05 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 22-12-2025 07:24:33 AM
+#DATE: 22-12-2025 08:52:05 AM
 
 
 # ================= JTV PLAYLIST =================
@@ -5335,9 +5335,6 @@ http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (Tplay)
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CartoonNetworkHDLogo.png/revision/latest?cb=20221009224934",Cartoon Network HD+
-http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.ts
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2020/11/gubbare-logo-1-01.jpg",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
@@ -5379,9 +5376,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f9zZJTC52y3utJNJ8H_jDGmKt3uzfbGXMENp3G6OoQ&s=10",Discovery HD
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98872.ts
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance
-http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/972.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98866.ts
