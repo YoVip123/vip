@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 23-12-2025 10:08:44 AM | Expire: 23-12-2025 02:08:44 PM"
+#EXTM3U billed-msg="Updated: 23-12-2025 12:07:09 PM | Expire: 23-12-2025 04:07:09 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 23-12-2025 10:08:44 AM
+#DATE: 23-12-2025 12:07:09 PM
 
 #EXTINF:-1 tvg-id="1000009246" group-title="SONY LIV" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png",SET HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
