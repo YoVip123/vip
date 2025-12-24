@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 24-12-2025 02:01:52 PM | Expire: 24-12-2025 06:01:52 PM"
+#EXTM3U billed-msg="Updated: 24-12-2025 03:39:07 PM | Expire: 24-12-2025 07:39:07 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 24-12-2025 02:01:52 PM
+#DATE: 24-12-2025 03:39:07 PM
 
 
 # ================= SONY LIV =================
@@ -5403,8 +5403,8 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1766626899~acl=%2f*~id=1fd90525-6fe7-4076-939f-d1689bee26b7~data=hdntl~hmac=b8f2ccfc73fc0420a1eb74fe5335eddc035985dc501e58fc864bbe91cf5e79fc
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6oIkh51mGBnGh_KrG10F-n8ixYXM_UMwTSmhc6s_KpuFUCRMBaJyloM&s",Sony sab SD
-#EXTVLCOPT:http-user-agent=okhttp/4.12.1
-https://allottplay.com/tv/toffee/live.php?id=sonysab_hd&format=.m3u8
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 10)
+https://allottplay.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6oIkh51mGBnGh_KrG10F-n8ixYXM_UMwTSmhc6s_KpuFUCRMBaJyloM&s",Sony sab SD (yoxeh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10)
@@ -5412,9 +5412,6 @@ https://toffee.yoxeh59833.workers.dev/live.php?id=sonysab_hd|Referer=https://tof
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6oIkh51mGBnGh_KrG10F-n8ixYXM_UMwTSmhc6s_KpuFUCRMBaJyloM&s",Sony sab SD (TEST)
 https://ranapk.online/OPPLEX/RANAPK5/play.php?id=221256
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6oIkh51mGBnGh_KrG10F-n8ixYXM_UMwTSmhc6s_KpuFUCRMBaJyloM&s",Sony sab SD (OPPLEX)
-https://billatv.netlify.app/.netlify/functions/Opplex?id=221256&e=.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png/revision/latest/scale-to-width-down/920?cb=20180305065258",ShinChan (Dhoom)
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
@@ -5472,4 +5469,7 @@ http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98866.ts
 
 #EXTINF:-1 group-title="Songs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOlzLGwNM6JSyJIvTDZxtPH73PA1QNkQDde0bARtB-Q&s=10",English Songs 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMH1hI5eSknY7pIOhIDrORUZLZZ4CD11kZ6Kyv0zZove33zm4MaYZQJw&s=10",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
