@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 26-12-2025 09:56:56 PM | Expire: 27-12-2025 01:56:56 AM"
+#EXTM3U billed-msg="Updated: 27-12-2025 01:54:03 AM | Expire: 27-12-2025 05:54:03 AM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 26-12-2025 09:56:56 PM
+#DATE: 27-12-2025 01:54:03 AM
 
 
 # ================= SONY LIV =================
@@ -5453,6 +5453,9 @@ https://origin1.freetvindia.com/live/GoldMines.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000658.png",Goldmines bollywood
 https://origin1.freetvindia.com/live/GOLDMINESBOLLYWOOD.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets.airtel.in/static-assets/cms/dth-images/digital-tv-airtel-specials-logo/Miniplex_SD_300x113.png",Miniplex
+https://all-guruji.wasmer.app/play.php?id=640
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png",Disney HD
 http://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
