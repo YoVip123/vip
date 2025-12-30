@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 30-12-2025 05:38:36 PM | Expire: 30-12-2025 09:38:36 PM"
+#EXTM3U billed-msg="Updated: 30-12-2025 05:43:51 PM | Expire: 30-12-2025 09:43:51 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 30-12-2025 05:38:36 PM
+#DATE: 30-12-2025 05:43:51 PM
 
 
 # ================= SONY LIV =================
@@ -5330,10 +5330,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=
 #EXTINF:-1 tvg-id="anmol-cinema" tvg-language="hi" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg",Anmol Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1767145408~acl=%2f*~id=31271763-392c-4435-a281-74356a8bfea4~data=hdntl~hmac=9bbf54af3d8bc039fc42da59cfc7cfb7583bf4a50dd5d3ff2eefe5f70098d68c
-
-#EXTINF:-1 tvg-id="anmol-cinema-2" tvg-language="hi" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_246,h_270,f_webp,q_auto:eco,c_fit/resources/0-9-bigganga/square/1920x1080list07c314433276453ca706229ab5e5c042",Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-?hdntl=exp=1767145408~acl=%2f*~id=31271763-392c-4435-a281-74356a8bfea4~data=hdntl~hmac=9bbf54af3d8bc039fc42da59cfc7cfb7583bf4a50dd5d3ff2eefe5f70098d68c
 
 #EXTINF:-1 tvg-id="zing" tvg-language="hi" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg",Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
