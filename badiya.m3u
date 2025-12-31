@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 31-12-2025 02:02:00 PM | Expire: 31-12-2025 06:02:00 PM"
+#EXTM3U billed-msg="Updated: 31-12-2025 04:57:08 PM | Expire: 31-12-2025 08:57:08 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 31-12-2025 02:02:00 PM
+#DATE: 31-12-2025 04:57:08 PM
 
 
 # ================= SONY LIV =================
@@ -5281,7 +5281,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3
 
 #EXTINF:-1 tvg-id="zee-zest-hd" tvg-language="en" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_246,h_270,f_webp,q_auto:eco,c_fit/resources/0-9-348/square/1920x1080list7568db782c114329afd8bb7e030eca0d",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1767231844~acl=%2f*~id=42867009-b271-4f20-8cf4-f1c555bf1c32~data=hdntl~hmac=ef06704c3701efb7c19b26220c1b889c4bc4fa9ba3bd88e5536a6f1a277b6938
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/index-connected.m3u8?hdntl=exp=1767231844~acl=%2f*~id=42867009-b271-4f20-8cf4-f1c555bf1c32~data=hdntl~hmac=ef06704c3701efb7c19b26220c1b889c4bc4fa9ba3bd88e5536a6f1a277b6938
 
 #EXTINF:-1 tvg-id="&tv-hd" tvg-language="hi" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_246,h_270,f_webp,q_auto:eco,c_fit/resources/0-9-tvhd_0/square/1920x1080list8cecf80ef6884ff09063a5abd21f81d6",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
