@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 01-01-2026 03:53:42 PM | Expire: 01-01-2026 07:53:42 PM"
+#EXTM3U billed-msg="Updated: 01-01-2026 04:45:11 PM | Expire: 01-01-2026 08:45:11 PM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 01-01-2026 03:53:42 PM
+#DATE: 01-01-2026 04:45:11 PM
 
 
 # ================= SONY LIV =================
@@ -5442,31 +5442,31 @@ https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58634
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqX2w_cbA8fvaTUqf6Ac4eH7zYtnfFBG0IF96x2KPKw&s=10",Doraemon (Tplay)
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2020/11/gubbare-logo-1-01.jpg",Gubbare
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/q2J7laqf.png",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuTvMUewROfcC0sshOebFaHtRZDgRP0wWa1ck-vBUXQ&s",5Min Craft
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/yctJrkWY/1767265447834.png",5Min Craft
 https://amg02051-soulpublishing-amg02051c7-lg-in-1018.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsenglish-lgin/playlist.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20250205T004558SQUARE.png&h=250",Cook & Bake
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/BHf5XQ5K/1767265322190.png05T004558SQUARE.png&h=250",Cook & Bake
 https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png&h=250",Foodie HUB
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/kskYZpP5/1767265148480.png",Foodie HUB
 https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/IQJW/WBD/FoodieHub_IN/FoodieHub_IN.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png&h=250",FoodXP HD
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/N6Wk6Fdf/1767265405983.png",FoodXP HD
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",Zee Horror
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD (XC)
 https://guruji1.wasmer.app/98871.ts
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjx691H-c6WDEFPd4UotizMVtpNT8AL8ixDgK-JqvV8h8RVW7I5FMhYqM&s=10",Animal Planet HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/I4SGkIgK.png",Animal Planet HD
 https://guruji1.wasmer.app/98873.ts
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767262905765.png",Zee Comedy Nation
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767263505578.png",Zee Horror
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767263181076.png",Zee Comedy Nation
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767262047284.png",Zee South Flix
@@ -5475,25 +5475,28 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767262426977.png",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000243.png",Goldmines Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/YoVip123/logo/refs/heads/main/Zee5LOGO/1767264423944.png",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png",Goldmines Movies
 https://origin1.freetvindia.com/live/GoldminesMovies.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000604.png",Goldmines
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png",Goldmines
 https://origin1.freetvindia.com/live/GoldMines.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png",Disney HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/PrGIjkJG.png",Disney HD
 https://guruji1.wasmer.app/19741.ts
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiq41a1QrnxvIa-E9Car1wxL-vNOtj-Zu5w&s",Oggy 24/7
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiq41a1QrnxvIa-E9Car1wxL-vNOtj-Zu5w&s",Oggy
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20251217T003133SQUARE.png&h=250",JungleBook
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f9zZJTC52y3utJNJ8H_jDGmKt3uzfbGXMENp3G6OoQ&s=10",Discovery HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NbLsoaej.png",Discovery HD
 https://guruji1.wasmer.app/98872.ts
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png&h=250",Wild Flix
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/LhJ56VNb/1767265012187.png",Wild Flix
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
