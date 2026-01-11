@@ -1,7 +1,7 @@
-#EXTM3U billed-msg="Updated: 11-01-2026 09:47:35 PM | Expire: 12-01-2026 01:47:35 AM"
+#EXTM3U billed-msg="Updated: 12-01-2026 01:46:50 AM | Expire: 12-01-2026 05:46:50 AM"
 #EXTM3U refresh="4"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: 11-01-2026 09:47:35 PM
+#DATE: 12-01-2026 01:46:50 AM
 
 #EXTINF:-1 tvg-id="1104" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13)
